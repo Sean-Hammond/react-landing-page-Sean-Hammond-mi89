@@ -20,6 +20,10 @@ main {
   color: midnightblue;
 }
 
+.jumbotron {
+  min-height: 50vh;
+}
+
 footer {
   background-color: darkslategray;
 }

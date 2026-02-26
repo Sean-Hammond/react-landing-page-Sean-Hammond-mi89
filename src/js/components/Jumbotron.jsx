@@ -1,7 +1,7 @@
 export const Jumbotron = () => {
   return (
     <div className="jumbotron-container container-fluid w-75 mx-auto my-3">
-      <div className="bg-primary-subtle p-4">
+      <div className="bg-primary-subtle p-4 jumbotron">
         <h1>Welcome!</h1>
         <p>
           Check out some of these under-the-radar destinations that you might
